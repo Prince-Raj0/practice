@@ -3,4 +3,7 @@ p {
     width: 500px;
     border: 1px solid black;
   }
-  
+*
+{
+  background-color: blueviolet;
+}
